@@ -8,6 +8,7 @@ public class MyTest{
 		System.out.println("ddd");
 		System.out.println("assaa");/*AAAAA*/
 		System.out.println("bbb");
+		System.out.println("bbb");
 	}
 	
 
