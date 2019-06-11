@@ -1,9 +1,10 @@
 
 
 public class MyTest{
+	private String username;
 
-	public static void main(String args...){
-		System.out.println("aaa");
+	public static void main(String args[]){
+		System.out.println("assaa");/*AAAAA*/
 		System.out.println("bbb");
 	}
 	
