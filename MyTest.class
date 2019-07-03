@@ -1,0 +1,15 @@
+
+
+public class MyTest{
+	private String username;
+
+	public static void main(String args[]){
+		System.out.println("ggg");
+		System.out.println("ddd");
+		System.out.println("assaa");/*AAAAA*/
+		System.out.println("bbb");
+		System.out.println("bbb");
+	}
+	
+
+}
